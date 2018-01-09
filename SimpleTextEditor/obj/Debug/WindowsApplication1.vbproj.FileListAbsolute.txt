@@ -1,0 +1,11 @@
+\\hoc-cdc.ca\adminprivate\fs04u\dhindg\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\hoc-cdc.ca\adminprivate\fs04u\dhindg\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\hoc-cdc.ca\adminprivate\fs04u\dhindg\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\hoc-cdc.ca\adminprivate\fs04u\dhindg\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\hoc-cdc.ca\adminprivate\fs04u\dhindg\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\hoc-cdc.ca\adminprivate\fs04u\dhindg\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+\\hoc-cdc.ca\adminprivate\fs04u\dhindg\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\hoc-cdc.ca\adminprivate\fs04u\dhindg\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\hoc-cdc.ca\adminprivate\fs04u\dhindg\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\hoc-cdc.ca\adminprivate\fs04u\dhindg\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\hoc-cdc.ca\adminprivate\fs04u\dhindg\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
