@@ -1,4 +1,4 @@
-<b>SimpleTextEditor</b>
+<b>Easy Edit</b>
 
 ![alt text](https://github.com/gurveerdhindsa/SimpleTextEditor/blob/master/Screenshots/Interface.PNG)
 
